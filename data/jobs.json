@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Senior Rust Systems Engineer",
+    "company": "EdgeStream",
+    "description": "Work on low-latency distributed systems for video streaming.",
+    "tags": ["rust","systems","low-latency"],
+    "location": "Remote",
+    "remote": true,
+    "apply": "https://example.com/jobs/1"
+  },
+  {
+    "title": "NLP Engineer (Spanish models)",
+    "company": "LinguaTech",
+    "description": "Build and fine-tune Spanish language models for customer support.",
+    "tags": ["nlp","spanish","ml"],
+    "location": "Barcelona, ES",
+    "remote": false,
+    "apply": "https://example.com/jobs/2"
+  },
+  {
+    "title": "Product Designer — Health Tech",
+    "company": "Pulse Labs",
+    "description": "Design clinician-facing interfaces for remote monitoring devices.",
+    "tags": ["design","healthcare","ux"],
+    "location": "New York, NY",
+    "remote": false,
+    "apply": "https://example.com/jobs/3"
+  },
+  {
+    "title": "Senior Frontend (Svelte)",
+    "company": "IndieTools",
+    "description": "Ship small, fast UIs for indie developer tools.",
+    "tags": ["svelte","frontend","indie"],
+    "location": "Remote",
+    "remote": true,
+    "apply": "https://example.com/jobs/4"
+  }
+]
